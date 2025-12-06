@@ -1,1 +1,10 @@
-
+# --- Steam 下载（直连） ---
+DOMAIN-SUFFIX,steampipe.akamaized.net,DIRECT
+DOMAIN-SUFFIX,content.steampowered.com,DIRECT
+DOMAIN-SUFFIX,hsar.steampowered.com,DIRECT
+DOMAIN-SUFFIX,cdn.steampowered.com,DIRECT
+DOMAIN-SUFFIX,cm.steampowered.com,DIRECT
+DOMAIN-SUFFIX,steamcontent.com,DIRECT
+DOMAIN-SUFFIX,cdn.steamchina.com,DIRECT
+DOMAIN-SUFFIX,steamcdn-a.akamaihd.net,DIRECT
+DOMAIN-SUFFIX,akamai.steamstatic.com,DIRECT
