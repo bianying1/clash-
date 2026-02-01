@@ -41,3 +41,6 @@ DOMAIN-KEYWORD,binance
 # > Binance API
 DOMAIN-SUFFIX,binanceapi.com
 DOMAIN-SUFFIX,bnbstatic.com
+
+# > Binance invested
+DOMAIN-SUFFIX,ts.finance
